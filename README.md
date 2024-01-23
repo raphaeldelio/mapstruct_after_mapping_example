@@ -1,0 +1,1 @@
+This repository is complementary material for my blog post [@AfterMapping: Updating lists or custom objects with MapStruct in Java](https://medium.com/@raphaeldelio/aftermapping-updating-lists-or-custom-objects-with-mapstruct-in-java-4a6f4622ef92).
